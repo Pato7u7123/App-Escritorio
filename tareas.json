@@ -1,0 +1,17 @@
+[
+  {
+    "texto": "Terminar reporte de subproducto 3",
+    "completada": false,
+    "creada": "2026-09-13T18:52:46"
+  },
+  {
+    "texto": "Revisar el codigo de Gestor de Tareas",
+    "completada": true,
+    "creada": "2026-09-13T18:53:02"
+  },
+  {
+    "texto": "Comprar Agua",
+    "completada": false,
+    "creada": "2026-09-13T18:53:20"
+  }
+]
